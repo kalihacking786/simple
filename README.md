@@ -1,0 +1,2 @@
+# simple
+shell scripting example
