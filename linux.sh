@@ -1,3 +1,5 @@
 v=u+at
 v²=u²+2as
-s=ut+½at²
+s=ut+½at
+
+Division²
